@@ -1,0 +1,16 @@
+MNIST Hand Digit Recognition
+
+Problem description:
+Build Neural Netwroks (NN) and Convolution Neural Networks (CNN) models to solve hand digit recognition problem
+
+Directory description:
+
+Keras-Sequential-Model
+  - This directory contain .py, .ipynb, and README files
+  - The model uses multiple hidden neural networks to solve digit recognition classification problem
+
+Keras-CNN-model
+  - This directory contain .py, .ipynb, and README files
+  - CNN model for MNIST hand digit recognition problem
+
+Futher details are provided in the directory's README file.
